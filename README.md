@@ -2,6 +2,10 @@
 
 <p>Este challenge pertenece al programa <strong>ONE - Oracle Next Education</strong>, donde se nos solicitó hacer un conversor de monedas consumiendo una API, el valor de estas divisas se actualiza todos los días gracias a la API.</p>
 
+<p>La API que se usa es del siguiente link: https://www.exchangerate-api.com/docs/java-currency-api</p>
+
+<p>Lea la documentación para saber como se usa la API</p>
+
 <p>En un menú se le muestra al usuario que opciones puede elegir para convertir el valor de su moneda en otra divisa, este menú de opciones se repite al escribir los números 1, 2, 3, 4, 5 y 6. También pasa lo mismo si escribimos otro número que no corresponde a este menú. Al escribir el número 7 el programa finaliza.<p>
 
 ![1](https://github.com/leandrovillamildev/challenge-conversor-de-monedas/assets/156725800/6a982335-57f3-446d-ae20-7e4005294a33)
