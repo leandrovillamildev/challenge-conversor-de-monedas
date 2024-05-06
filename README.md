@@ -6,7 +6,7 @@
 
 <p>La API que se usa es del siguiente link: https://www.exchangerate-api.com/docs/java-currency-api</p>
 
-<p>Lea la documentación para saber como se usa la API</p>
+<p>Lea la documentación para saber como se usa la API.</p>
 
 <p>En un menú se le muestra al usuario que opciones puede elegir para convertir el valor de su moneda en otra divisa, este menú de opciones se repite al escribir los números 1, 2, 3, 4, 5 y 6. También pasa lo mismo si escribimos otro número que no corresponde a este menú. Al escribir el número 7 el programa finaliza.<p>
 
