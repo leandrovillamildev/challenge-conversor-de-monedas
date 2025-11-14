@@ -1,6 +1,6 @@
 <h1>#challengeoneconversordemonedas6</h1>
 
-<p align="center"> ![Badge-Conversor](https://github.com/leandrovillamildev/challenge-conversor-de-monedas/assets/156725800/7f5f4b1b-49c9-4e82-ba0d-71d2de8fd43c) </p>
+![Badge-Conversor](https://github.com/leandrovillamildev/challenge-conversor-de-monedas/assets/156725800/7f5f4b1b-49c9-4e82-ba0d-71d2de8fd43c)
 
 <p>Este challenge pertenece al programa <strong>ONE - Oracle Next Education</strong>, donde se nos solicitó hacer un conversor de monedas consumiendo una API, el valor de estas divisas se actualiza todos los días gracias a la API.</p>
 
